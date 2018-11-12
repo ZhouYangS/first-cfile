@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/11/10 16:58:52。
+     1>项目“C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Find_Circle\Find_Circle.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\SCI-SDK\SciVision\v2.2.1712.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Find_Circle.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Find_CircleDlg.cpp
+         Find_CircleDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Debug\Find_Circle.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SCI-SDK\SciVision\v2.2.1712.0\x86\lib" SciData.lib SciVision.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Debug\Find_Circle.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Debug\Find_Circle.lib" /MACHINE:X86 Debug\Find_Circle.res
+         Debug\Find_Circle.obj
+         Debug\Find_CircleDlg.obj
+         Debug\stdafx.obj
+         Find_Circle.vcxproj -> C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Debug\Find_Circle.exe
+     1>已完成生成项目“C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Find_Circle\Find_Circle.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.03

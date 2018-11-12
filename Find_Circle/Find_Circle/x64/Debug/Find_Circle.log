@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/11/7 10:03:48。
+     1>项目“C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Find_Circle\Find_Circle.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\SCI-SDK\SciVision\v2.2.1712.0\include" /ID:\HALCON\include /ID:\HALCON\include\halconcpp /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\Find_Circle.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\SCI-SDK\SciVision\v2.2.1712.0\include" /ID:\HALCON\include /ID:\HALCON\include\halconcpp /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\Find_Circle.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Find_Circle.cpp Find_CircleDlg.cpp
+         Find_CircleDlg.cpp
+     1>c:\users\sx756\documents\visual studio 2015\projects\find_circle\find_circle\find_circledlg.cpp(84): warning C4311: “类型转换”: 从“HWND”到“long”的指针截断
+     1>c:\users\sx756\documents\visual studio 2015\projects\find_circle\find_circle\find_circledlg.cpp(84): warning C4302: “类型转换”: 从“HWND”到“long”截断
+         Find_Circle.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\Find_Circle.res" Find_Circle.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\x64\Debug\Find_Circle.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SCI-SDK\SciVision\v2.2.1712.0\x64\bin" /LIBPATH:"D:\HALCON\lib\x64-win64" "halconcpp.lib；SciData.lib" SciVision.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\x64\Debug\Find_Circle.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\x64\Debug\Find_Circle.lib" /MACHINE:X64 x64\Debug\Find_Circle.res
+         x64\Debug\Find_Circle.obj
+         x64\Debug\Find_CircleDlg.obj
+         x64\Debug\stdafx.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“halconcpp.lib；SciData.lib”
+     1>已完成生成项目“C:\Users\sx756\documents\visual studio 2015\Projects\Find_Circle\Find_Circle\Find_Circle.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.37
